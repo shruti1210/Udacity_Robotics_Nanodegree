@@ -5,7 +5,7 @@ Use ROS and Gazebo to build a mobile robot for chasing a white ball.
 
 ## Structure
 ```
-.RoboND-Go-Chase-It/src                # Go Chase It Project
+GoChaseIt/src                # Go Chase It Project
 ├── my_robot                       # my_robot package
 │   ├── launch                     # launch folder for launch files
 │   │   ├── robot_description.launch
