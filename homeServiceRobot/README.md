@@ -61,7 +61,7 @@ Note: To redraw the map, close all ros terminals and re-run the script
 `rosrun map_server map_saver -f my_map`. Replace the `map/SimpleMap` files with 
 the newly created `my_map`.
 
-## Final Words
+## Conclusion
 
 This project is the final project of Udacity Robotics Software Engineer Nanodegree,
 in which the following knowledge are combined:
