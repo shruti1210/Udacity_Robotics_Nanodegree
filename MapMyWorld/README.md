@@ -68,5 +68,3 @@ $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 * Choose View -> Constraints View and Graph View
 * To see 3D Map, Choose Edit -> View 3D Map ...
     
-You could also open the database I already generated in this project. The number
-of loop closures can be found in [overview.png](images/overview.png).
