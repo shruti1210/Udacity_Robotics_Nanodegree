@@ -1,8 +1,10 @@
 
 # Project 1: Build My World
 
-![Screenshot](VirtualBox_vm_23_08_2020_18_18_39.png)
 
+<p align="center"> 
+<img src="https://github.com/shruti1210/Udacity_Robotics_Nanodegree/blob/master/BuildMyWorld/robot/VirtualBox_vm_23_08_2020_18_18_39.png">
+</p>
 ## Build Instructions
 1. Make sure you have the following installed:
    - [ROS](http://wiki.ros.org/ROS/Installation)
