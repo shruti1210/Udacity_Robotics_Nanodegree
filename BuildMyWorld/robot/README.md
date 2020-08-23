@@ -16,7 +16,7 @@
 `GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/RoboND-Build-My-World/build`
 7. Go back to the project folder
 8. Launch Gazebo world `gazebo world/UdacityOffice`
-![Screenshot](VirtualBox_vm_23_08_2020_18_18_39.png.png)
+![Screenshot](VirtualBox_vm_23_08_2020_18_18_39.png)
 ## Structure
 ```
 .RoboND-Build-My-World             # Build My World Project 
