@@ -47,7 +47,7 @@ GoChaseIt/src                # Go Chase It Project
 1. Clone and initialize project with a catkin workspace
 ```console
 $ mkdir catkin_ws && cd catkin_ws
-$ git clone https://github.com/huuanhhuynguyen/RoboND-Go-Chase-It.git
+download this this project repository in the present working directory
 $ mv RoboND-Go-Chase-It src
 $ cd src && catkin_init_workspace
 ```
