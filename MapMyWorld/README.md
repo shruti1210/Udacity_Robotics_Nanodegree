@@ -20,7 +20,7 @@ The project consists of the following parts:
 1. Clone project and initialize a catkin workspace
 ```
 $ mkdir catkin_ws && cd catkin_ws
-$ git clone https://github.com/huuanhhuynguyen/RoboND-Map-My-World.git
+//Download the this directory - https://github.com/shruti1210/Udacity_Robotics_Nanodegree/tree/master/MapMyWorld
 $ mv RoboND-Map-My-World src
 $ cd src && catkin_init_workspace
 ```
